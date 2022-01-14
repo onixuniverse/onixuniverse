@@ -1,6 +1,6 @@
 ### Hi there, I'm [onixuniverse][website] 👋 
 
-[![Website](https://img.shields.io/website?label=onixuniverse.github.io&style=for-the-badge&url=https%3A%2F%2Fonixuniverse.github.io%2F)](onixuniverse.github.io)
+[![Website](https://img.shields.io/website?label=onixuniverse.github.io&style=for-the-badge&url=https%3A%2F%2Fonixuniverse.github.io%2F)](https://onixuniverse.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/onixuniverse?style=for-the-badge)](https://twitter.com/onixuniverse)
 
 
