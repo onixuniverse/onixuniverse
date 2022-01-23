@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/onixuniverse?style=for-the-badge)](https://twitter.com/onixuniverse)
 
 
-- 🌱 I’m currently learning Python & Unity
+- 🌱 I’m currently learning Python
 
 ### Connect with me:
 
