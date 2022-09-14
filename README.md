@@ -1,7 +1,6 @@
 ### Hi there, I'm [onixuniverse][website] 👋 
 
 [![Website](https://img.shields.io/website?label=onixuniverse.github.io&style=for-the-badge&url=https%3A%2F%2Fonixuniverse.github.io%2F)](https://onixuniverse.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/onixuniverse?style=for-the-badge)](https://twitter.com/onixuniverse)
 
 
 - 🌱 I’m currently learning Python
@@ -28,5 +27,3 @@
 [![onixuniverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=onixuniverse&show_icons=true)](https://github.com/onixuniverse/github-readme-stats)
 
 [website]: https://onixuniverse.github.io/
-[twitter]: https://twitter.com/onixuniverse
-[telegram]: https://t.me/dmuniverse17
