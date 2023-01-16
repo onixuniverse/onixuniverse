@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img target="_blank" align="left" alt="onixuniverse.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img target=_blank align="left" alt="onixuniverse.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
