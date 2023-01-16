@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=onixuniverse.github.io&style=for-the-badge&url=https%3A%2F%2Fonixuniverse.github.io%2F)](https://onixuniverse.github.io)
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & C++
 
 ### Connect with me:
 
