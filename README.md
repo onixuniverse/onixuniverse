@@ -1,1 +1,1 @@
-### Hi there, I'm [onixuniverse][website] 👋
+### Hi there, I'm onixuniverse 👋
